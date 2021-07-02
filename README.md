@@ -75,7 +75,7 @@ So far i learned how to:
 ### Built With
 
 * [HTML](https://www.w3schools.com/html/)
-* [CSS](https://www.w3schools.com/css/)
+* [SCSS](https://sass-lang.com/)
 * [JS](https://www.javascript.com/)
 
 
